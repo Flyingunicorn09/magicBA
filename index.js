@@ -5,7 +5,7 @@ using namespace std;
  
 // Returns approximate value of e^x
 // using sum of first n terms of Taylor Series
-float exponential(int n, float x)
+float exponential(int n,float x)
 {
     float sum = 1.0f; // initialize sum of series
  
